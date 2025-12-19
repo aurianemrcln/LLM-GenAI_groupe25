@@ -1,0 +1,112 @@
+L’informatique spécialisée en sécurité des systèmes et des objets connectés
+Majeure informatique en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master.
+La majeure Informatique, Objets connectés et Sécurité forme des ingénieurs maitrisant l’informatique avec une solide culture de sécurité des systèmes et des objets connectés, de leur phase de conception à leur intégration dans les écosystèmes d’entreprise.
+La formation est labellisée SecNum edu par l’ANSSI.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISA) .
+Candidature
+Culture Maker-Hacker
+Ingénieur généraliste ESILV
+L’école a développé dans ses associations et ses projets étudiants une véritable culture makers-hackers et Do It Yourself.
+Les élèves conçoivent et innovent autour des objets connectés, de l’IA et de la sécurité au sein du FabLab, du DeVinci Innovation Center, des associations DaVinci Bot, Digiteam et de nombreuses autres associations techniques.
+Pour les plus acharnés de la cybersécurité, l’association DaVinciCode regroupe tous les hackers autours de challenges, warzones et autres CTFs, dont le CTF du pôle : le
+DaVinciCTF .
+Le label SecNumEdu
+L’objectif de cette labellisation est d’apporter une assurance aux étudiants et employeurs qu’une formation dans le domaine de la sécurité du numérique répond à une charte et des critères définis par l’
+ANSSI en collaboration avec les acteurs et professionnels du domaine (établissements d’enseignement supérieur, industriels…).
+Enseignements
+Développement de systèmes embarqués sécurisés
+Intelligence Artificielle et cybersécurité
+Forensic
+Réseaux et télécommunications
+Architecture IoT sécurisée
+Virtualisation sécurisée
+Reverse Engineering
+Gouvernance des données, règlementation et RGPD
+Audits et tests d’intrusion
+Cyber-résilience et gestion de risques
+Gouvernance de la cyber-sécurité
+Développement d’applications sécurisées
+Compétences
+Penser la sécurité par défaut dans toute démarche d’innovation
+Concevoir et déployer des services et architectures IoT
+Définir et mener une politique de sécurité
+Maîtriser la conception et l’intégration de solutions de cybersécurité
+Métiers en informatique & sécurité des objets connectés
+Ingénieur Hard&Soft IOT, Chef de projet produits connectés, Ingénieur Sécurité, Responsable de la sécurité des systèmes d’information (RSSI), Consultant en gestion des risques, Développeur IoT, Analyste et auditeur sécurité, Ingénieur technologies mobiles, Architect IOT sécurisé
+#CyberSécurité
+#GestionDesRisques
+#ObjetsConnectés #IA
+#Réseaux&Connectivité
+#CyberRésilience #RGPD
+#SecurityByDesign
+Apercu du programme
+Majeure objets connectés et sécurité
+CONNECTIVITY
+Cellular networks
+IoT Networks
+SYSTEM SECURITY
+OS Hardening
+Network Security
+CYBER EXPERTISE
+AI for Cybersecuriry
+Reverse Engineering
+GOVERNANCE
+Security Management
+Cyber Risk Management
+Cyber Resilience
+Privacy Management
+IOT SECURITY
+IoT Pentesting & Forensics
+IoT Security Architecture
+IIOT SECURITY
+HW Security & Trust
+Safety & Security
+Télécharger le syllabus des modules
+Exemples de projets objets connectés et sécurité
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+#PI²4 - Construction de surfaces de volatilités de caplets
+Création d'une plateforme mesurant la disponibilité à base de micro pc
+Rédaction automatisé du rapport d'autopsie
+Station Blanche Embarquée
+Développer un modèle de calcul de valeur résiduelle de matériels BTP
+Distribution par noyau, couverture d’option et stratégie systématique
+Application Mobile de RTA (Responsible Tourism Advisor)
+KCS02 : Booking automatique de trade via NLP
+Blockchain Sécurité / DevOps
+#PI²5 - IA Générative, quels enjeux pour les DSI des entreprises ?
+#PI²4 - Concours- Les Olympiades Fanuc
+#pi²5 Clustering de données non labélisées
+Les actualités objets connectés et sécurité à l'ESILV
+/ Voir les actualités
+Spatial, cybersécurité, mobilité, durabilité, IA : les équipes ESILV distinguées au Hackathon Hussar Academy 2025
+Date : 19 Nov 2025
+Plusieurs équipes du cycle ingénieur ESILV ont été récompensées lors du Hackathon Hussar Academy 2025, un événement dédié aux enjeux du spatial, de la cybersécurité, de la mobilité et de l’IA.
+L’édition......
+
+European Defense Tech Hackathon Paris : DaVinciHive de l’ESILV remporte la première place
+Date : 14 Nov 2025
+L'association étudiante des drones de l'ESILV, DaVinciHive a obtenu la première place lors de l’European Defense Tech Hackathon, organisé à Paris en novembre 2025. Cette participation a permis d’explorer des problématiques......
+
+DefHack 2025 : immersion des étudiants de l’ESILV au cœur d’une cyberattaque simulée
+Date : 05 Nov 2025
+Pour la première fois, l’ESILV a accueilli dans les salles du Campus Cyber l’exercice de cyberdéfense DefHack, organisé par le Commandement de la cyberdéfense (COMCYBER). Une vingtaine d’étudiants en cybersécurité......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

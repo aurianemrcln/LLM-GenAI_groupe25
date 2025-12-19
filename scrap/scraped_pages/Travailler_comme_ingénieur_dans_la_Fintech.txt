@@ -1,0 +1,105 @@
+Travailler comme ingénieur dans la Fintech
+Majeure Fintech en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master
+Cette majeure a pour but de former les futurs ingénieurs à toutes les technologies innovantes, indispensables pour évoluer et innover dans ces entreprises, qui réinventent les métiers de la finance. Les cours sont dispensés à 100% en anglais.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISEA) .
+Candidature
+Le futur de la Fintech
+Ingénieur généraliste ESILV
+Les fintechs forment une nouvelle industrie financière, qui déploie la technologie pour améliorer les activités financières. Plusieurs révolutions, à la fois juridiques et techniques, ont radicalement changé le monde de la finance.
+Une formation de référence sur la blockchain
+Sous l’impulsion de
+Cyril Grunspan, enseignant-chercheur réputé, l’ESILV a été la première école à proposer une formation complète sur la blockchain et le bitcoin. L’école a aussi initié les premières recherches académiques sur le sujet et mène aujourd’hui des projets partenariaux sur la blockchain. La formation fintech de l’ESILV est devenue une référence pour tous les acteurs économiques et institutionnels du domaine.
+Enseignements
+Machine Learning et Intelligence artificielle
+Analyse de données – Big Data
+Finance de marché
+Économie des banques et de l’assurance
+Cryptographie
+Blockchain
+Monnaies numériques
+Sécurité informatique
+Développement d’applications pour la finance
+Développement mobile et web
+Compétences
+Concevoir, développer et administrer des solutions blockchain
+Développer des applications financières innovantes
+Maîtriser les modèles économiques et financiers des banques et assurances
+Maîtriser les enjeux et technologies des cryptomonnaies
+Maîtriser les algorithmes de machine learning et d’analyse de données
+Métiers
+Développeur Blockchain, Architecte Blockchain, Trader de cryptomonnaies, Data analyst, scientist, Chef de projet assurtech, Consultant cryptomonnaie, Ingénieur R&D, Développeur d’applications bancaires, Ingénieur sécurité et cryptographie
+#BlockChain
+#Finance
+#Bitcoin
+#Informatique
+#Cryptographie
+Aperçu du programme
+Majeure Fintech
+BLOCKCHAIN
+Asymetric Cryptography
+Decentralized Finance
+QUANTUM COMPUTING
+Quantum Computing
+WEB APPLICATIONS
+Designing Distributed Systems
+Advanced Web Development
+CONSENSUS
+Proof of Stake
+Zero Knowledge Proofs
+MOBILE APPLICATIONS
+Architectures Cloud
+Mobile Development
+PROGRAMMING
+Artificial intelligence for Fintech
+Virtualization
+BLOCKCHAIN
+Cryptofinance
+Lightning Network
+Monnaies Numériques
+Exemples de projets Fintech
+Réalisés en majeure fintech par les élèves-ingénieurs de 4e et 5e année
+Blockchain Sécurité / DevOps
+Distribution par noyau, couverture d’option et stratégie systématique
+KCS04 : Pricer multi-émetteur
+#PI²5 - Analyse des Dynamiques de l'Emploi dans la Finance à Hong Kong
+#PI²4 - IA CYBER DEFENSE
+#PI²4 - Trading Regime Models
+#PI²4 - Construire un outil comparateur de salaires avec Portalia
+#PI²4 - L'IA pour l'Estimation de la Couverture Corallienne
+Développement d'une plateforme de quantification dynamique du risque orientée StableCoins
+#PI²4 Création d'une cryptomonnaie écologique
+#PI²4 Réalisation de sites internet pour Neurochain - AI at the heart of the Blockchain
+#PI²4  Création de startup web3 : Nefture
+Les actualités Fintech
+/ Voir les actualités
+Hackathon SUI à l’EPFL : Kryptosphere® DeVinci remporte la 1ʳᵉ et la 3ᵉ place
+Date : 01 Oct 2025
+Organisé à l’EPFL en partenariat avec la Blockchain Student Association, le hackathon SUI a réuni plus de 40 équipes venues de 20 universités internationales, dont Oxford et la Technische Universität München. La participation......
+
+Une équipe de l’ESILV distinguée à ETHDenver 2025 : une 2ᵉ place sur la track Ripple
+Date : 04 Apr 2025
+Lors de l'ETHDenver 2025, l'équipe de l'ESILV a décroché la 2ᵉ place sur la track RLUSD: Mission Stablecoin Adoption, organisée par Ripple. Un projet innovant, RippleTip, a permis de se démarquer dans ce hackathon......
+
+Kryptosphere® Devinci participe au NASA International Space Apps Challenge à Paris
+Date : 25 Oct 2024
+Kryptosphere® Devinci, l’association blockchain du Pôle Léonard de Vinci, a contribué à l'organisation du NASA International Space Apps Challenge à Paris. Ce hackathon mondial réunit des innovateurs venus de divers......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

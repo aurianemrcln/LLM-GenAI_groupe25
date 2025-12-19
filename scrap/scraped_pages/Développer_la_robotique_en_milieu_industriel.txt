@@ -1,0 +1,107 @@
+Développer la robotique en milieu industriel
+Majeure industrie et robotique en école d’ingénieurs habilitée CTI, diplôme d’ingénieurs conférant le grade de master
+La majeure Industrie et Robotique forme des ingénieurs qui conçoivent et mettent en œuvre des systèmes industriels modernes intégrant nativement les outils et technologies de la révolution digitale.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISA) .
+Candidature
+Industrie & robotique
+Ingénieur généraliste ESILV
+Les étudiants seront en mesure de travailler sur des sites de production ou de services de PMI ou d’entreprises industrielles de toutes tailles et de tous les secteurs, en France comme à l’international. Les étudiants sont notamment formés à l’utilisation de logiciels comme
+RoboDK, MATLAB, Simulink, 3DEXPERIENCE pour la simulation et la modélisation.
+Préparer l’industrie du futur
+En partenariat avec des grands groupes industriels (Dassault Systemes, Arcelormittal, Altran / Capgemini Engineering), l’ESILV développe depuis plusieurs années des projets de recherche et de développement sur les thématiques fortes de l’industrie 4.0 :
+Intelligence artificielle au service de l’usinage pour l’aéronautique et l’automobile , matériaux intelligents, fabrication additive et maîtrise des technologies d’impression 3D.
+Enseignements
+Modélisation et simulation des chaînes de fabrication, d’assemblage et de logistique
+Management, contrôle et optimisation des processus et des données industrielles
+Product Lifecycle Management
+Lean management
+Jumeaux numériques, IoT et usine connectée
+Réalité virtuelle et réalité augmentée.
+Gestion de projets et gestion de l’innovation
+Technologies numériques et fabrication additive
+Mécatronique et robotique
+Intelligence artificielle et outils de l’industrie 4.0
+Compétences
+Implémenter et gérer des systèmes industriels modernes
+Maîtriser la chaîne et les méthodes de production (Lean…)
+Concevoir et dimensionner l’organisation globale d’un système industriel : savoir modéliser, concevoir des systèmes de production industrielle automatisés et robotisés
+Maîtriser les technologies numériques (usage de la maquette numérique, virtualisation, réalité augmentée, Internet des objets, IA, impression 3D)
+Métiers
+Ingénieur production, Responsable qualité et maintenance, Ingénieur en risques industriels, Chef de projet process et méthodes, Ingénieur R&D, Ingénieur impression 3D, Ingénieur cobotique, Chef de projet transformation digitale, Ingénieur maintenance prédictive
+#Impression3D #IA
+#Agilité #Innovation
+#TransformationDigitale
+#Robotique #Cobotique
+#Mécatronique
+#IndustrieConnectée
+Aperçu du programme
+Majeure Industrie et robotique
+INDUSTRIAL MANAGEMENT
+Product Lifecycle Management
+Industrial Operations Management
+MECHATRONICS
+Mechatronic Systems
+AI AND SYSTEMS
+Embedded Artificial Intelligence
+Robot Operating System
+Artificial Intelligence in Industry
+I
+NDUSTRIAL ENGINEERING
+Industrial Data Management
+Connected Factory
+INDUSTRIAL TECHNOLOGIES
+Autonomous Embedded Systems
+Multidisciplinary Design Optimization
+Internet of Things
+Digital Twins
+DESIGN AND MANUFACTURING
+Advanced Additive Manufacturing
+Industrial Design
+Exemples de projets Industrie et robotique
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+Création d'une plateforme mesurant la disponibilité à base de micro pc
+DIVA - GRC
+Blockchain Sécurité / DevOps
+Conception d'un système de protection des vignobles contre la grêle (équipe 205)
+#PI²5  - Concours- Les Olympiades Fanuc
+#PI²5  - Maquette d'une chaine de production de voiture
+#PI²4 - Concours- Les Olympiades Fanuc
+#PI²4 - Détection de mines enterrées
+Application Web d'Analyse des Risques Climatiques et Données INSEE (équipe 212)
+#PI²4 - Neutralisation de mines et munitions
+Idiba Foods (équipe 222)
+Développer un modèle de calcul de valeur résiduelle de matériels BTP
+Les actualités Industrie 4.0
+/ Voir les actualités
+WorldSkills France : Chloé, promo 2028, médaillée en électronique et sélectionnée pour Helsinki
+Date : 21 Nov 2025
+Chloé Muliva, promo 2028, élève ingénieure étudiante de la majeure industrie et robotique à l’ESILV, poursuit son alternance au sein de l’Atelier Industriel Aéronautique de Cuers Pierrefeu. Médaillée d’or lors......
+
+L’asssociation DaVinciBot sélectionnée pour le Drone Defense Hackathon au Grand Palais
+Date : 31 Oct 2025
+L'association étudiante de robotique du Pôle Léonard de Vinci a été sélectionnée pour participer au Drone Defense Hackathon, un événement européen dédié à l’innovation en drones et intelligence artificielle,......
+
+Air France Industries : l’ESILV aux InnoDays 2025
+Date : 15 Sep 2025
+L’ESILV a participé aux InnoDays 2025 organisés par Air France Industries au MRO Lab de Roissy CDG.
+L’événement a rassemblé 20 exposants et a mis en avant des solutions innovantes en robotique, data, traçabilité......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

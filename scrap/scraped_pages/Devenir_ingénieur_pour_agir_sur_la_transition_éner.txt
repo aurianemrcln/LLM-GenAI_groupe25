@@ -1,0 +1,107 @@
+Devenir ingénieur pour agir sur la transition énergétique
+Majeure énergie et villes durables en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master
+La majeure forme les ingénieurs à la conception, au développement et à la gouvernance des systèmes énergétiques, des bâtiments intelligents et des villes durables.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISA) .
+Candidature
+Acteurs de la transition énergétique
+Ingénieur généraliste ESILV
+Cette formation en école d’ingénieurs repose sur la maîtrise des enjeux énergétiques, du développement durable et sur trois piliers scientifiques : la physique et la gestion de l’énergie, les technologies numériques et la modélisation des villes et des bâtiments.
+Une filière tournée vers la transition énergétique et le développement durable
+La majeure Énergie et Villes Durables propose une formation permettant de s’inscrire dans les grands projets de développement durable des territoires. En transformant nos usages par le numérique, les élèves allient ainsi innovation et technologies dans un projet professionnel éthique tourné vers la durabilité de nos sociétés.
+Enseignements
+Mécanique des fluides numérique
+Transferts thermiques
+Énergies renouvelables
+Réseaux électriques
+Smart Grids
+IoT pour la Smart City
+Machine Learning et visualisation de données
+Building Information Modeling (BIM)
+Mix énergétique et décarbonisation
+Efficacité énergétique des bâtiments
+Gestion de projet durable et accompagnement du changement
+Géopolitique de l’énergie
+Compétences
+Concevoir et mettre en œuvre des solutions d’énergie renouvelable
+Modéliser le cycle de vie d’un bâtiment et d’une ville
+Maîtriser des enjeux techniques, sociétaux et économiques de la transition énergétique
+Concevoir, dimensionner et piloter des systèmes de production et de distribution d’énergie
+Métiers
+Ingénieur efficacité énergétique, BIM Project Manager, Ingénieur fluides et environnement, Chargé de projet EnR, Chef de projet énergies renouvelables, Ingénieur R&D systèmes embarqués, Chef de projets certifications environnementales, Data Analyst photovoltaïque, Ingénieur consultant mobilité électrique, Chargé de missions RSE
+#Transitionénergétique
+#IOT #BIM
+#ÉnergieRenouvelable
+#SmartCity
+#DéveloppementDurable
+Aperçu du programme
+Majeure Énergie et villes durables
+BUILDING ENERGY MODELLING
+Electric Power Systems
+Numerical Heat and Mass Transfer
+CONVENTIONAL AND RENEWABLE ENERGIES
+Hydropower
+BioEnergy
+ENERGY DATA – MANAGEMENT
+BIM
+Machine Learning and Data Viz
+Data and Energy Security
+ENERGY GRIDS
+Smart Grids
+Energy Storage Systems
+Ecodistrict
+SUSTAINABLE DEVELOPMENT OF SMART CITY
+Environmental Regulation RE2020
+Ecoconception & LCA Method
+Sustainable Project Management
+CHANGES OF ENERGY SECTOR
+Change Management
+Energy Policies
+Green IT & Low Tech
+Sustainable Habitat and City
+Exemples de projets Énergie et villes durables
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+#PI²4 - Lutter contre le bruit en ville : diagnostic des sources et solutions
+Des leviers d'actions pour optimiser les consommations énergétiques
+Étude de la tenue en fatigue oligo-cycliques des Al aéronautiques
+Comportement du CO2 dans des états supercritiques
+#PI²5 Seanergies : étude d’un data center semi-émergé
+#PI²5  Implantation de systèmes de stockage d’énergie par batteries l’énergie photovoltaïque
+#PI²4 Application web pour la réduction de l'empreinte carbone et de la consommation énergétique
+#PI²4 Conception du prototype de bateau pour Monaco Energy Boat Challenge
+Développement d'un programme Python pour optimiser la rentabilité des structures hydroélectriques
+#PI²4  Amélioration de l’efficacité énergétique du cloud
+#PI²4 Améliorer les prototypes de lampadaire intelligent
+#PI²4 Solution numérique d'évaluation de l'empreinte carbone des équipements bureautiques
+Les actualités Energie
+/ Voir les actualités
+Rencontres de la Gen’D : les ingénieurs de demain au cœur de la ville durable
+Date : 12 Nov 2025
+La première édition des Rencontres de la Gen’D, organisée par Construction21 en partenariat avec la Fédération CINOV, le CCCA-BTP et Leonard, a réuni étudiants, enseignants-chercheurs et acteurs du monde professionnel......
+
+Mon alternance en tant qu’ingénieur solutions numériques chez CYRISEA, Ismaïl, promo 2025
+Date : 03 Sep 2025
+De l’alternance au rôle de référent : un parcours qui façonne un ingénieur prêt pour demain. Au sein de CYRISEA, filiale du groupe ALTYN, Ismaïl, promo 2025, a choisi la voie de l’alternance pour donner un sens......
+
+Les défis et opportunités pour la décarbonation et les plans Net Zéro : un séminaire du parcours Recherche
+Date : 23 Sep 2024
+Le parcours Recherche de l’ESILV a marqué sa rentrée 2024-2025 par un séminaire intitulé « Building Performance Evaluation for Decarbonisation and Net Zero Plans ‒ Challenges and Opportunities » (Évaluation de la performance......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

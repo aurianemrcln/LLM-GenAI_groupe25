@@ -1,0 +1,48 @@
+L’ESILV, pionnière dans les usages Blockchain, certifie ses diplômes en s’appuyant sur cette technologie.
+L’ESILV qui forme des ingénieurs notamment dans les domaines de l’Informatique et de la Finance, a noué un partenariat avec la société
+Paymium , leader européen de la technologie Bitcoin , basée à Paris, pour rendre ses diplômes infalsifiables et facilement vérifiables.
+La blockchain est le registre public des transactions sécurisées par le protocole Bitcoin.
+Ce protocole permet à chacun, sans autorisation ou contrat préalable, de coopérer sur internet avec les autres participants pour stocker et mettre à jour cette base de données, dite Blockchain. Les participants forment ainsi le réseau Bitcoin, qui s’ajoute à d’autres réseaux ouverts sur internet comme le web ou le courrier électronique.
+Processus de vérification
+L’ESILV revendique publiquement les adresses suivantes comme étant celles ayant servi à mener l’opération de certification des diplômes. http://diploma.report/issuers/school_list
+Promo 2015 :
+1LtRb89nFo8nzFSqZcWajhsmPgbe4NkAGY
+Promo 2016 :
+1CprynTDv1Re8chqrXNpc7hw4wUYsk6BTi
+Promo 2017 :
+1KB1TWzMNUanqRwriDBrMQhuqyoTAKfBin
+MS Actuariat, Assurance et Big Data 2017 :
+18SqcPexAkzycZoBybory9KWnXL75E8Bvc
+MS Actuariat, Assurance et Big Data 2018 :
+12h54vVoobHruAzV3dC5e7ABpuSAtUeiD1
+Promo 2018 :
+12cjY5Gbk8oJhpf1sGrdHFrbV2SuFx92NA
+Comment vérifier ?
+1. L’étudiant est diplômé.
+L’école numérise le diplôme de l’étudiant (l’école est obligée de passer par cette étape à moins que le rectorat coopère et se « convertisse » à la technologie blockchain, ce qui pourrait faire économiser du temps et de l’argent à tous) ;
+L’école rentre la copie numérique du diplôme sur un site dédié crée par Paymium : http://diploma.report/ ;
+Ce faisant, le site « hashe » la copie numérique du diplôme (par SHA 256) ;
+Paymium écrit sur la blockchain ​cette empreinte numérique (pour le compte de l’école) ​à l’aide de l’adresse de l’école et conserve l’empreinte numérique de cette transaction ;
+Sur diploma.report, l’étudiant conserve et peut télécharger à tout moment trois choses distinctes : une version numérique du diplôme, l’empreinte numérique du diplôme (le hash) et l’empreinte numérique de la transaction écrite dans la blockchain.
+L’étudiant est encouragé à garder la copie numérique de son diplôme. Cependant, s’il la perd, il peut la retrouver sur diploma.report.
+2. L’étudiant diplômé postule à une offre
+Il envoie la version numérique de son diplôme (le pdf = A2)
+Il envoie dans le même temps le hash du diplôme (A3)
+Il envoie aussi le hash de la transaction blockchain (A4)
+3. L’Entreprise souhaite vérifier que le diplôme de l’étudiant est correct
+L’entreprise télécharge le diplôme de l’étudiant (le pdf reçu) ;
+Elle calcule l’empreinte numérique de ce document et vérifie que c’est bien le hash (A3) que lui a également envoyé l’étudiant ;
+L’entreprise va sur un site d’exploration de la blockchain comme blockcypher.com et rentre le hash de la transaction blockchain (A4). L’entreprise voit apparaître alors l’adresse​ de l’école comme origine de la transaction ainsi que l’empreinte de la version numérique du diplôme (A3)​​. Ceci constitue une preuve cryptographique que le diplôme de l’étudiant reçu par l’entreprise est correct​.
+L’Ecole
+Développement Durable et RSE
+Le mot du directeur
+Le projet pédagogique
+La mission de l’ESILV
+Le titre d’ingénieur
+La transversalité
+10 bonnes raisons d’intégrer l’ESILV
+VAE
+Agenda
+Certification blockchain des diplômes ESILV
+Labels, Accréditations & Réseaux
+Vie étudiante

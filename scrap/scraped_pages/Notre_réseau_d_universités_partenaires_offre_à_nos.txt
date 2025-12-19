@@ -1,0 +1,267 @@
+Notre réseau d’universités partenaires offre à nos étudiants la possibilité d’étudier en Europe (accords ERASMUS), en Amérique, en Afrique et en Asie-Pacifique par le biais d’accords d’échange, de mobilité et de partenariat. Notre réseau s’enrichit chaque année de nouveaux partenaires rigoureusement sélectionnés.
+Un semestre académique à l’international
+University
+Country
+Website
+Univesiteti 'Aleksader Moisiu' Durres
+Albania uamd.edu.al
+Hochschule Furtwangen
+Germany en.hs-furtwangen.de
+Hochschule Reutlingen - Reutlingen University
+Germany reutlingen-university.de
+Technical University of Applied Sciences Rosenheim
+Germany fh-rosenheim.de
+Rhine-Waal University of Applied Sciences
+Germany hochschule-rhein-waal.de
+Otto-Friedrich-Universität Bamberg
+Germany uni-bamberg.de
+University of Technology Sydney
+Australia uts.edu.au
+University of Newcastle
+Australia newcastle.edu.au
+Murdoch University
+Australia murdoch.edu.au
+RMIT University Melbourne
+Australia rmit.edu.au
+Swinburne University of Technology - Melbourne
+Australia swinburne.edu.au
+Griffith University
+Australia griffith.edu.au
+University of South Australia
+Australia unisa.edu.au
+MCI - Management Center Innsbruck
+Austria mci.edu
+Université de Liège
+Belgium ulg.ac.be
+Ecole Pratique des Hautes Ecoles Commerciales (EPHEC)
+Belgium ephec.be
+Karel De Grote University College
+Belgium kdg.be
+Haute Ecole Condorcet Hainaut - Charleroi
+Belgium condorcet.be
+Haute École de la Province de Liège (HEPL)
+Belgium hepl.be
+Université du Québec à Chicoutimi
+Canada uqac.ca
+Université du Québec en Outaouais
+Canada uqo.ca
+Universidad Mayor, Santiago du Chili
+Chile umayor.cl
+Beijing Jiaotong University (BJTU)
+China njtu.edu.cn
+Nanjing University of Aeronautics and Astronautics
+China nuaa.edu.cn
+Shanghai Normal University
+China host.shnu.edu.cn
+Hanyang University, Seoul
+South Korea hanyang.ac.kr
+Sungkyunkwan University (SKKU)
+South Korea skku.edu
+SEOUL Tech
+South Korea seoultech.ac.kr
+Chung Ang University
+South Korea cau.ac.kr
+Konkuk University
+South Korea kku.ac.kr
+Aalborg University
+Denmark aau.dk
+The American University in Cairo
+Egypt aucegypt.edu
+University of Vic
+Spain uvic.cat
+University of Girona
+Spain udg.edu
+Polytechnic University of Cartagena
+Spain univ-tech.eu
+Tallinn University of Technology
+Estonia ttu.ee
+University of Tartu
+Estonia ut.ee
+Northwestern State University
+United States nsula.edu
+University of Louisiana at Lafayette
+United States louisiana.edu
+Pace University
+United States pace.edu
+California State University Long Beach
+United States csulb.edu
+University of Virginia's College at Wise
+United States uvawise.edu
+Georgia Institute of Technology
+United States gatech.edu
+Illinois Institute of Technology
+United States iit.edu
+University of California Santa Cruz Silicon Valley Extension
+United States ucsc-extension.edu
+University of California Los Angeles - Extension
+United States uclaextension.edu
+Boston University
+United States 1 bu.edu
+Savonia Ammattikorkeakoulu
+Finland savonia.fi
+University of Vasaa
+Finland univaasa.fi
+Budapest University of Technology and Economics (BUTE)
+Hungary bme.hu
+University of Debrecen
+Hungary unideb.hu
+National Institute of Technology Puducherry
+India nitpy.ac.in
+Griffith College Dublin
+Ireland gcd.ie
+Dorset College Dublin
+Ireland dorset-college.ie
+Dublin City University
+Ireland dcu.ie
+University of Reykjavik, Reykjavik
+Iceland ru.is
+Milano Polytechnical University
+Italy polimi.it
+Torino Polytechnical University
+Italy polito.it
+Bari Polytechnical University
+Italy poliba.it
+University of Padova
+Italy unipd.it
+University of Pisa
+Italy unipi.it
+Università degli Studi di Cagliari
+Italy unica.it
+University of Trento
+Italy unitn.it
+University of Salento
+Italy unisalento.it
+University of Messina
+Italy unime.it
+University of Genova
+Italy unige.it
+Riga Technical University
+Latvia rtu.lv
+Vilnius Gediminas Technical University (VILNIUS TECH)
+Lithuania vilniustech.lt
+Université du luxembourg
+Luxembourg uni.lu
+South East European University
+North Macedonia seeu.edu.mk
+Asia Pacific University
+Malaysia apu.edu.my
+UniKL University of Kuala Lumpur
+Malaysia unikl.edu.my
+Universiti Putra Malaysia
+Malaysia upm.edu.my
+Université Internationale de Rabat (Rabat Business School)
+Morocco uir.ac.ma
+ITESM - Tech de Monterrey
+Mexico tec.mx
+Occidental Institute of Technology and Higher Education
+Mexico iteso.mx
+Panamerican University
+Mexico up.edu.mx
+Norwegian University of Life Sciences
+Norway nmbu.no
+Poznan University of Technology
+Poland put.poznan.pl
+Czech technical University
+Czech Republic cvut.cz
+Tomas Bata University in Zlín
+Czech Republic utb.cz
+VSB - Technical University of Ostrava
+Czech Republic vsb.cz
+Babes Bolyai University (Universitatea Babes-Bolyai din Cluj-Napoca)
+Romania ubbcluj.ro
+Politehnica Bucharest
+Romania upb.ro
+University of Sunderland
+United Kingdom sunderland.ac.uk
+Cranfield University
+United Kingdom cranfield.ac.uk
+University of Belgrade
+Serbia bg.ac.rs
+Technical University of Kosice
+Slovakia tuke.sk
+University of Zilina
+Slovakia uniza.sk
+University of Primorska
+Slovenia upr.si
+Blekinge Institute of Technology
+Sweden bth.se
+Linnaeus University
+Sweden lnu.se
+University of Skövde
+Sweden his.se
+Jönköping University
+Sweden ju.se
+Mälardalen University
+Sweden mdh.se
+University of Applied Sciences Northwestern Switzerland (FHNW)
+Switzerland fhnw.ch
+Lucerne University of Applied Sciences and Arts
+Switzerland hslu.ch
+National Taipei University
+Taiwan ntpu.edu.tw
+Southern Taiwan University of Science and Technology
+Taiwan stust.edu.tw
+National Central University
+Taiwan ncu.edu.tw
+Kasetsart University
+Thailand ku.ac.th
+Ecole Polytechnique Internationale Privée de Tunis
+Tunisia pi.tn
+Universidad de Montevideo
+Uruguay um.edu.uy
+OST University of Applied Sciences of Eastern Switzerland
+Switzerland ost.ch
+ZHAW, Engineering School
+Switzerland zhaw.ch
+FPT University
+Vietnam fpt.edu.vn
+University of Science and Technology of Hanoi
+Vietnam usth.edu.vn
+Akademia Ekonomiczno-Humanistyczna w Warszawie (University of Economics and Human Sciences in Warsaw
+Poland vizja.pl
+University of Porto
+Portugal up.pt
+ISCTE IUL - Lisbon University Institute
+Portugal iscte-iul.pt
+Polytechnic Institute of Bragança
+Portugal ipb.pt
+Universidade Catolica Portuguesa
+Portugal ucp.pt
+Séoul et Hanyang University : le retour d’expérience de Mathilde, promo 2025
+Mathilde Bulat, promo 2025, suit la majeure Cybersécurité & Objets Connectés du cycle ingénieur de l’ESILV. Après un double diplôme en économie, mathématiques et informatique…
+Lire la suite
+Tournoi HYDS × SDS RT : Thomas, promo 2028, distingué parmi les meilleurs orateurs en Corée du Sud
+En échange académique à l’Université Hanyang (한양대학교) en Corée du Sud, Thomas Pautras, étudiant du double diplôme Ingénieur-Manager, promo 2028, a connu une réussite inattendue…
+Lire la suite
+Politehnica University Timisoara : un accord Erasmus+ pour la mobilité en industrie et robotique
+L’ESILV poursuit son ouverture internationale avec la signature d’un nouvel accord Erasmus+ avec la Politehnica University Timisoara, en Roumanie. Ce partenariat permettra dès l’automne 2026…
+Lire la suite
+Un semestre d’échange en Californie : l’expérience de Sandro, promo 2027, à la California State University Long Beach
+En mobilité académique aux États-Unis, Sandro, étudiant à l’ESILV, partage son expérience au sein de la California State University Long Beach, l’une des plus grandes…
+Lire la suite
+Keimyung University et ESILV : un nouvel accord pour renforcer la mobilité étudiante et la recherche
+ESILV renforce sa présence en Asie avec un nouvel accord signé avec Keimyung University, basée à Séoul. Cette collaboration s’inscrit dans une stratégie d’ouverture internationale…
+Lire la suite
+Semestre académique en Corée du Sud : Laura, promo 2027, à la Chung Ang University
+Un semestre à Séoul à la Chung Ang University a marqué le parcours de Laura, étudiante en cycle ingénieur à l’ESILV. Entre adaptation culturelle, découvertes…
+Lire la suite
+International
+Welcome Desk
+Programme Erasmus+
+Doubles diplômes de l’ESILV à l’international
+Etudier à l’étranger : les départs à l’international
+Universités partenaires
+Etudier à l’ESILV en échange
+Vos contacts internationaux
+Julie Pidell
+Directrice des relations internationales
+Degree-seeking students
+Programmes Cursus ingénieur, MSc, Bachelor
+Whatsapp : +33 7 86 16 74 66 international.admission@devinci.fr
+Etudiants en échanges
+Programmes d'échanges / Welcome desk
++33 1 81 00 29 43 incoming@devinci.fr
+Partenaires
+Etudiants ESILV en mobilité sortante ou universités partenaires
++33 1 81 00
+29 42 / 27 93 outgoing@devinci.fr

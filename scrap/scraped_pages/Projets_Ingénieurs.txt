@@ -1,0 +1,49 @@
+Projets Ingénieurs
+→
+←
+#PI²5 – Valorisation des tranches de CLO Callable
+Projet d’Innovation Industrielle d’année 5 (PI²5) du cycle ingénieur ESILV, 2024-2025
+Les tranches de CLO sont émises avec une option de rappel à discrétion de l’émetteur, en général après une période de non-call de deux ans.
+L’option implicitement contenue dans le contrat n’est toutefois jamais valorisée. Par conséquent, il n’existe pas à notre connaissance de méthode standard utilisée par le marché permettant de calculer le prix de ce type d’option.
+Objectif : connaitre le prix des calls sur les tranches de CLO dans lesquels LBP est investie, calculer l’équivalent bp-running et le comparer avec la rémunération de la tranche de CLO.
+Il est par conséquent demandé de construire un pricer de call sur tranche de CLO (Il pourra s’agir d’un contrat européen, bermudien ou américain).
+Équipe :
+Ilyana Benfetita
+Sifa Gatto
+Camille Chevillon
+Leopold Pongratz
+Tim Longyka
+Retrouvez l’ESILV sur : http://www.esilv.fr
+Tweet
+Projets
+Une sélection de projets d'études, en prépa intégrée ou en cycle ingénieur, à l'ESILV, école d'ingénieurs généraliste au coeur des technologies numériques
+Voir tous les projets
+Search
+Generic selectors
+Exact matches only
+Search in title
+Search in content
+Post Type Selectors portfolios
+Categories
+Admissions
+(121)
+Cursus
+(539)
+Insertion
+(230)
+International
+(114)
+L'école
+(11)
+Recherche
+(223)
+Vie étudiante
+(230)
+Archives
+Archives
+Sélectionner un mois décembre 2025  (7) novembre 2025  (11) octobre 2025  (15) septembre 2025  (13) août 2025  (3) juillet 2025  (12) juin 2025  (12) mai 2025  (13) avril 2025  (12) mars 2025  (14) février 2025  (11) janvier 2025  (12) décembre 2024  (14) novembre 2024  (10) octobre 2024  (13) septembre 2024  (14) août 2024  (6) juillet 2024  (12) juin 2024  (11) mai 2024  (9) avril 2024  (11) mars 2024  (9) février 2024  (10) janvier 2024  (9) décembre 2023  (8) novembre 2023  (11) octobre 2023  (13) septembre 2023  (13) août 2023  (3) juillet 2023  (6) juin 2023  (12) mai 2023  (8) avril 2023  (9) mars 2023  (14) février 2023  (6) janvier 2023  (10) décembre 2022  (8) novembre 2022  (9) octobre 2022  (11) septembre 2022  (11) août 2022  (6) juillet 2022  (10) juin 2022  (12) mai 2022  (9) avril 2022  (8) mars 2022  (12) février 2022  (9) janvier 2022  (11) décembre 2021  (7) novembre 2021  (10) octobre 2021  (11) septembre 2021  (11) août 2021  (6) juillet 2021  (9) juin 2021  (14) mai 2021  (9) avril 2021  (12) mars 2021  (12) février 2021  (11) janvier 2021  (9) décembre 2020  (9) novembre 2020  (12) octobre 2020  (11) septembre 2020  (11) août 2020  (8) juillet 2020  (10) juin 2020  (12) mai 2020  (8) avril 2020  (12) mars 2020  (12) février 2020  (9) janvier 2020  (10) décembre 2019  (11) novembre 2019  (12) octobre 2019  (13) septembre 2019  (11) août 2019  (1) juillet 2019  (5) juin 2019  (10) mai 2019  (12) avril 2019  (12) mars 2019  (13) février 2019  (11) janvier 2019  (12) décembre 2018  (6) novembre 2018  (12) octobre 2018  (14) septembre 2018  (12) août 2018  (2) juillet 2018  (12) juin 2018  (12) mai 2018  (9) avril 2018  (11) mars 2018  (12) février 2018  (11) janvier 2018  (12) décembre 2017  (8) novembre 2017  (11) octobre 2017  (9) septembre 2017  (8) juillet 2017  (4) juin 2017  (6) mai 2017  (4) avril 2017  (7) mars 2017  (6) février 2017  (11) janvier 2017  (11) décembre 2016  (12) novembre 2016  (10) octobre 2016  (10) septembre 2016  (7) août 2016  (1) juillet 2016  (5) juin 2016  (4) mai 2016  (7) avril 2016  (10) mars 2016  (7) février 2016  (8) janvier 2016  (9) décembre 2015  (8) novembre 2015  (12) octobre 2015  (14) septembre 2015  (8) août 2015  (2) juillet 2015  (3) juin 2015  (6) mai 2015  (8) avril 2015  (8) mars 2015  (12) février 2015  (11) janvier 2015  (7) décembre 2014  (5) novembre 2014  (8) octobre 2014  (9) septembre 2014  (6) juillet 2014  (2) juin 2014  (6) mai 2014  (7) avril 2014  (11) mars 2014  (4) février 2014  (9) janvier 2014  (11) décembre 2013  (4) novembre 2013  (5) octobre 2013  (5) septembre 2013  (9) juillet 2013  (4) mai 2013  (6) avril 2013  (11) mars 2013  (4) février 2013  (8) janvier 2013  (5) décembre 2012  (2) novembre 2012  (1) octobre 2012  (1) septembre 2012  (4) juin 2012  (2) mai 2012  (1) avril 2012  (2) mars 2012  (1) janvier 2012  (1) octobre 2011  (1) septembre 2011  (1) juin 2011  (1) avril 2011  (1) décembre 2010  (1) octobre 2010  (1) juillet 2010  (1) mars 2010  (2) janvier 2010  (1) décembre 2009  (4) novembre 2009  (1) octobre 2009  (1) septembre 2009  (1) juin 2009  (2) mai 2009  (2) mars 2009  (1)
+#PI²5 - Machine Learning for Rating and Default Prediction
+Statistical arbitrage with pair trading
+BlueGame - Application Android pour jouer en multijoueur via Bluetooth
+Création d'une plateforme chargée du suivi MCS (Maintien en Condition de Sécurité)
+#PI²5 ViveS media : conception d'un chatbot

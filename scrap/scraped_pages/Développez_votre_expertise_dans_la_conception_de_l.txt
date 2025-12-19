@@ -1,0 +1,102 @@
+Développez votre expertise dans la conception de logiciels et d’applications informatiques
+Majeure Ingénierie Logicielle & Intelligence Artificielle en école d’ingénieurs, diplôme d’ingénieur conférant le grade de master.
+Majeure « Ingénierie Logicielle & IA » en école d’ingénieurs. Accessible en alternance, cette formation vous permet de devenir expert dans la conception, le développement et la gestion de solutions logicielles complexes tout en intégrant les enjeux de l’intelligence artificielle et du développement durable.
+Formation proposée sur le campus de
+Nantes.
+Alternance possible
+(FISA) .
+Candidature
+Majeure Ingénierie Logicielle & IA
+La formation en ingénierie logicielle et IA à l’ESILV prend en compte les grandes tendances observées dans l’industrie du logiciel, telles que le développement durable dans le cycle de vie des systèmes d’information, l’automatisation des processus grâce à l’intelligence artificielle, et la gestion des infrastructures cloud. La majeure est accessible en alternance.
+Enseignements
+Conception logicielle avancée
+Gestion des données et de la maitrise des infrastructures.
+Intelligence artificielle et machine learning
+Data science et Big Data
+Informatique durable et responsable
+Compétences
+Développez votre expertise dans la conception de logiciels et d’applications informatiques
+Concevez des outils de gestion des données et de visualisation pour en exploiter le contenu sous forme d’information
+Devenez référent sur les enjeux d’intelligence artificielle : développement, maintien, sécurité et régulation
+Maitrisez l’infrastructure sur laquelle s’appuient les programmes informatique clients (Cloud, Ops)
+Appliquez les enjeux de développement durable dans la conception, le développement et le maintien des systèmes d’informations
+Métiers
+Data scientist, Data engineers, Data officer, Chef de projet big data, Développeur big data, Consultant analytics et visualisation, Ingénieur IA, Software engineer écoresponsable, Consultant numérique responsable.
+#IA
+#MachineLearning
+#DevSecOps
+#DataScience
+Aperçu du programme
+Ingénierie Logicielle & Intelligence Artificielle
+SOFTWARE ENGINEERING
+Scrum Master
+Versioning
+Programmation objet
+Ops
+Déploiement
+Contenerization
+Sécurité
+Web
+TRAITEMENT DE DONNÉES
+Création de bases de données
+Gestion de grande quantité de données
+Transformation et visualisation
+BI
+Data mining
+NUMÉRIQUE RESPONSABLE
+Expertise sur les enjeux climatiques et énergétiques
+Évaluation environnementale des systèmes d’information
+Analyse de cycle de vie numérique
+INTELLIGENCE ARTIFICIELLE
+Théorie en machine learning
+Deep Learning
+Vision par ordinateur
+Modèle de langue
+MLOps
+Robustesse et fiabilité
+Responsable
+Exemples de projets Ingénierie Logicielle & IA
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+Application Mobile de RTA (Responsible Tourism Advisor)
+KCS02 : Booking automatique de trade via NLP
+Blockchain Sécurité / DevOps
+#PI²5 - IA Générative, quels enjeux pour les DSI des entreprises ?
+#PI²4 - Concours- Les Olympiades Fanuc
+#PI²4 - Construction de surfaces de volatilités de caplets
+Création d'une plateforme mesurant la disponibilité à base de micro pc
+Rédaction automatisé du rapport d'autopsie
+Station Blanche Embarquée
+Développer un modèle de calcul de valeur résiduelle de matériels BTP
+Distribution par noyau, couverture d’option et stratégie systématique
+#pi²5 Clustering de données non labélisées
+Les actualités Ingénierie Logicielle & IA
+/ Voir les actualités
+Agentic AI Hackathon Google Cloud : l’équipe ESILV finaliste avec le projet Pixia
+Date : 10 Dec 2025
+Des étudiants issus de 20 établissements français ont participé au GCPU Agentic AI Hackathon, une initiative dédiée aux usages concrets des agents autonomes. L’équipe ESILV, avec son projet Pixia, fait partie des 11 finalistes......
+
+European Defense Tech Hackathon Paris : DaVinciHive de l’ESILV remporte la première place
+Date : 14 Nov 2025
+L'association étudiante des drones de l'ESILV, DaVinciHive a obtenu la première place lors de l’European Defense Tech Hackathon, organisé à Paris en novembre 2025. Cette participation a permis d’explorer des problématiques......
+
+IBM et l’ESILV organisent un hackathon autour de l’intelligence artificielle appliquée à l’industrie
+Date : 22 Sep 2025
+Début septembre, plus de 1 000 étudiants de 4e année, toutes majeures confondues, du cycle ingénieur de l’ESILV ont participé pour la première fois à un dispositif académique conçu avec IBM.
+Entre formation certifiante......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

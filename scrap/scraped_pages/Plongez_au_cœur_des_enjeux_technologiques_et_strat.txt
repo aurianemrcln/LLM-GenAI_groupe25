@@ -1,0 +1,99 @@
+Plongez au cœur des enjeux technologiques et stratégiques du spatial et de la défense.
+Cette majeure forme des ingénieurs capables de concevoir, modéliser et piloter des systèmes complexes dans les domaines du spatial et de la sécurité.
+La Majeure Aérospatial et Défense de l’ESILV propose aux futurs ingénieurs généralistes de développer en 4e et 5e année du cursus des compétences dans les dynamiques de vol et orbitales, la combustion et la propulsion, ainsi que la conception, la connectivité et l’automatisation des systèmes.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISA) .
+Candidature
+Majeure Aérospatial et Défense
+Ingénieur généraliste ESILV
+Cette majeure vise à doter les étudiants des connaissances nécessaires pour comprendre les techniques de vol dans l’atmosphère et l’espace, simuler les interactions multiphysiques avec l’atmosphère, étudier et optimiser les systèmes de propulsion, développer des logiciels de contrôle de vol et d’orbite, et maîtriser les technologies numériques avancées pour étudier, concevoir, simuler, valider et optimiser des systèmes existants ou nouveaux.
+OUTILS ET LOGICIELS
+Logiciels de simulation numérique : ANSYS Fluent, Abaqus, Matlab/Simulink.
+Conception et intégration systèmes : CATIA, Solidworks, Systems Tool Kit (STK), Altair.
+Environnements immersifs : simulateurs de vol, réalité augmentée et réalité virtuelle.
+Plateformes de gouvernance et de défense spatiale : outils de modélisation stratégique et de sécurité des systèmes.
+Enseignements
+Probabilités avancées, modélisation et analyse de risque
+Apprentissage automatique et science des données
+Gestion du cycle de vie des produits (PLM) et protection des données
+Mécanique orbitale, propulsion et systèmes de vol
+Structures et systèmes spatiaux
+Électronique, informatique et systèmes embarqués
+Communication et cybersécurité spatiale
+Modélisation numérique et dynamique des fluides (CFD)
+Robotique, drones et technologies immersives
+Conception de missions et simulation (STK)
+Défense et management de projets dans le secteur spatial
+Réglementation, éthique et sécurité des opérations
+Compétences
+Concevoir et simuler des systèmes spatiaux (lanceurs, satellites, missions complètes)
+Analyser et modéliser numériquement la mécanique des structures et la dynamique orbitale
+Maîtriser les systèmes embarqués : électronique, informatique et contrôle d’attitude
+Gérer des projets stratégiques dans les domaines spatiaux et défense
+Comprendre les enjeux de gouvernance et de sécurité spatiale (régulation, résilience, protection des infrastructures critiques)
+Métiers
+Ingénieur spatial civil ou militaire, Ingénieur propulsion et lanceurs, Ingénieur gouvernance et sécurité spatiale, Ingénieur systèmes embarqués, Chef de projet systèmes complexes, Ingénieur robotique et systèmes autonome.
+#Spatial
+#Défense
+#Simulation
+#GouvernanceSpatiale
+#Innovation
+Aperçu du programme
+Majeure Aérospatial et Défense
+DYNAMIQUES DE VOL ET ORBITALES FLUIDES
+Atmosphère et espace
+Mécanique orbitale
+Dynamique des fluides computationnelle (laminaire et turbulent)
+Systèmes de contrôle d’attitude
+PROPULSION
+Propulsion des avions
+Propulsion des fusées
+Propulsion dans l’espace
+CONCEPTION DE SYSTÈMES, CONNECTIVITÉ, AUTOMATISATION
+Électronique embarquée et informatique, réalité augmentée et virtuelle
+Communications
+Conception des systèmes de vol
+Défense
+RELATION AVEC LA SOCIÉTÉ
+Sécurité
+Réglementations, Certification Européenne pour la Standardisation
+Spatiale Éthique, politique et économie spatiales
+Exemples de projets Aérospatial et Défense
+Projets étudiants
+Les étudiants participent à des projets concrets et innovants en collaboration avec des partenaires comme l’École Polytechnique et l’ENSAM, ou encore l’association étudiante du Pôle Léonard de Vinci LeoFly.
+Exemples de projets :
+Nanosatellites : Conception, simulation, création et envoi d’un CubeSat 6U avec propulsion électrique.
+Ballons météorologiques : Diagnostic et mesure des champs électriques globaux dans la haute atmosphère.
+Fusées : Conception, simulation, création et envoi d’une mini-fusée 2 étages MiniX-Rocket.
+AR/VR pour l’amarrage : Développement d’algorithmes de navigation basés sur la vision pour un véhicule spatial modulaire et réutilisable.
+Les actus aéronautique & spatial
+Programme REXUS : LéoFly et le projet STAR-D pré-sélectionnés par l’ESA
+24 novembre 2025
+LéoFly, l’association aéronautique et spatiale du Pôle Léonard de Vinci, porte un projet scientifique pré-sélectionné pour le programme REXUS coordonné…
+
+Altair & ESILV : renouvellement de la chaire “Simulation, IA et Calcul Haute Performance”
+29 octobre 2025
+Renouvellement du partenariat entre l’ESILV et Altair autour de la chaire “Convergence de simulation, d'intelligence artificielle et de calculs haute…
+
+DefInSpace Hackathon : des étudiants de l’ESILV en demi-finale
+27 octobre 2025
+Des étudiants de l'ESILV, membres de l’association Proteus Group DeVinci, ont été sélectionnés en demi-finale du hackathon DefInSpace 2025, organisé…
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

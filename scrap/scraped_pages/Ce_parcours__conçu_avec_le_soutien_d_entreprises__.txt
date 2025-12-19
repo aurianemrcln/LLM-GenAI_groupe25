@@ -1,0 +1,35 @@
+Ce parcours, conçu avec le soutien d’entreprises, offre une vision complète de l’intelligence artificielle générative
+Comprendre et maîtriser l’intelligence artificielle générative
+Les étudiants acquièrent une compréhension approfondie des modèles de langage, de la génération d’images, de sons et de données synthétiques. La formation couvre les aspects techniques — architectures de réseaux neuronaux, optimisation, déploiement sur le cloud — mais également les enjeux éthiques, réglementaires et de souveraineté technologique.
+Les projets menés en partenariat avec des entreprises du secteur permettent aux élèves d’appliquer leurs compétences sur des cas concrets : automatisation de la création de contenu, assistance intelligente à la conception, génération de code, ou encore simulation de données pour l’ingénierie.
+Le parcours encourage la réflexion autour d’une IA de confiance, responsable et explicable, indispensable à une intégration durable dans les organisations.
+#IA
+#ETHIQUE
+#INNOVATION
+#MACHINELEARNING
+#DEEPLEARNING
+#TECHREPONSABLE
+Partenariats entreprises
+Le parcours s’appuie sur un réseau d’entreprises innovantes dans le domaine de l’IA générative et du numérique responsable. Ces collaborations favorisent l’adéquation entre formation et besoins industriels, et offrent des opportunités de stages et de projets appliqués.
+Les news GenAI
+Agentic AI Hackathon Google Cloud : l’équipe ESILV finaliste avec le projet Pixia
+10 décembre 2025
+Des étudiants issus de 20 établissements français ont participé au GCPU Agentic AI Hackathon, une initiative dédiée aux usages concrets des agents autonomes. L’équipe ESILV,…
+
+IBM et l’ESILV organisent un hackathon autour de l’intelligence artificielle appliquée à l’industrie
+22 septembre 2025
+Début septembre, plus de 1 000 étudiants de 4e année, toutes majeures confondues, du cycle ingénieur de l’ESILV ont participé pour la première fois à…
+
+Onepoint et ESILV : une thèse CIFRE sur l’IA générative et les graphes de connaissances appliqués aux tests logiciels
+29 août 2025
+L’ESILV et Onepoint ont signé une convention CIFRE pour accompagner la recherche de Marius Ortega, promo 2024 et PhD Student Onepoint & DVRC. Encadre par…
+
+Parcours
+Parcours Convergence HPC-IA
+Parcours Quantique
+Parcours UX Design
+Parcours ingénieurs d’affaires
+Parcours Recherche
+Parcours Start-Up
+Parcours GenAI
+Parcours Souveraineté numérique et Défense
