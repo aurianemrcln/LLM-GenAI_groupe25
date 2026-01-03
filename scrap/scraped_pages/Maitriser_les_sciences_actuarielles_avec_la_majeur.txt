@@ -1,0 +1,120 @@
+Maitriser les sciences actuarielles avec la majeure Actuariat
+Majeure Actuariat en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master, Label de qualité AMA 2025 (Association des Masters en Actuariat).
+L’objectif de la majeure Actuariat est de former des
+Ingénieurs maitrisant les techniques actuarielles, l’analyse de données, la Data Science et la modélisation des risques. Les diplômés seront très recherchés par les entreprises de l’assurance, de la finance, du consulting et de l’audit. Ces secteurs sont en pleine transformation avec des changements réglementaires, prudentiels et comptables importants. Ils y apporteront des réponses concrètes à des problèmes complexes en utilisant notamment la data science et le machine learning.
+Double diplômes possibles avec Paris Dauphine, l’ISUP, l’EURIA et le DUAS pour devenir ingénieur généraliste – actuaire IA. Il est également possible d’obtenir le triple diplôme pour devenir ingénieur généraliste – actuaire – manager, avec l’EMLV.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISEA) .
+Candidature
+Majeure Actuariat
+Ingénieur généraliste ESILV
+Les ingénieurs ESILV ayant suivi la majeure actuariat s’intègrent pleinement dans un marché de l’assurance et de l’audit qui se renouvelle par les innovations technologiques, la data science et toutes les nouvelles start-ups de l’assurance, les assurtech. Offrant d’excellentes perspectives d’évolution, le métier d’actuaire est régulièrement classé dans le top 10 des meilleurs métiers du monde selon Forbes, Career Cast ou encore Glassdoor.
+Des doubles diplômes d’excellence
+La majeure actuariat propose à ses élèves quatre doubles-diplômes pour devenir Ingénieur – Actuaire avec des écoles renommées en France : Paris Dauphine, l’ISUP,  l’EURIA et le DUAS . Cette reconnaissance de la formation de l’ESILV permet à une vingtaine d’élèves de rejoindre ces programmes bi-diplômants chaque année.
+Enseignements
+Analyse de données et Big Data
+Machine Learning et Deep learning
+Modèles financiers, Finance de marché, Gestion de portefeuille
+Produits dérivés & stratégies de couverture, Théorie des options, Risque de taux
+Probabilités avancées et processus stochastiques
+Statistiques des valeurs extrêmes, Modélisation des catastrophes naturelles
+Économie, Comptabilité, Droit
+Droit des assurances et conformité
+Solvabilité 2, Normes IFRS 9 et 17
+Construction de modèles, Gestion actif-passif
+Générateurs de scénarios économiques
+Assurance-Vie, Non-Vie, Réassurance, Provisionnement
+Engagements sociaux, Prévoyance, Santé, Retraite
+Compétences développées en Actuariat
+Assimiler les méthodes actuarielles
+Maîtriser l’environnement juridique, comptable et prudentiel
+Maîtriser la tarification provisionnement des produits d’assurance
+Maîtriser les outils de Data Science et de Big Data
+Arriver à concevoir et mettre en œuvre les produits assurantiels de demain
+Savoir utiliser les logiciels SAS, R, VBA et Python pour résoudre des problèmes
+Métiers de l’assurance et de l’actuariat
+Data Scientist, Risk manager, Gérant de portefeuille, Responsable des risques, Chargé d’études statistiques, Consultant en actuariat, Souscripteur, Actuaire (modélisation, tarification, provisionnement, produit, inventaire, réassurance, Vie, ALM, engagements sociaux, prévoyance, santé et retraite), Auditeur interne, Responsable gestion actif-passif, Consultant IFRS17, Contrôleur des assurances, Auditeur financier, Contrôleur ACPR.
+#Statistiques
+#DataScience
+#MachineLearning
+#Simulation
+#Modélisation
+#GestionDesRisques
+#Finance #IA
+#Assurance
+#Consulting
+Apercu du programme
+Majeure Actuariat
+MODÉLISATION ET GESTION DU RISQUE
+Statistiques des valeurs extrêmes
+Stochastic Calculus
+Méthodes de simulation et de modélisation
+RÉGLEMENTATION ET PROVISIONNEMENT EN ASSURANCE
+Provisionnement
+Solvabilité 2
+ASSURANCE VIE ET NON VIE
+Assurance Vie
+ALM
+Assurance non Vie 1
+APPROFONDISSEMENTS EN ACTUARIAT
+Engagements Sociaux (Retraite, Engagements Sociaux, Prévoyance)
+Générateurs de scénarios économiques
+Réassurance
+GESTION DU RISQUE EN FINANCE
+Diffusion models
+Théorie de gestion de portefeuille
+REGLEMENTATION COMPTABLE EN ASSURANCE
+IFRS 9 / IFRS 17
+Comptabilité des assurances
+MÉTHODES STATISTIQUES AVANCÉES POUR L’ACTUARIAT
+Assurance non vie II
+Deep Learning
+Séries temporelles
+Exemples de projets Actuariat
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+Création d'un classement des contrats d’assurance-vie
+Tendances des réseaux sociaux pour la prédiction du cours d'une actif
+KCS04 : Pricer multi-émetteur
+Création d'un outil afin de dresser un bilan patrimonial
+Création d'un outil afin de modéliser le risque longévité (équipe 206)
+Création d'un outil afin de modéliser le risque longévité
+#PI²5 - Anticipation du risque législatif et politique pour un assureur vie
+#PI²5 - Portage web d’un simulateur retraite
+#PI²4 - Faut-il mieux acheter ou louer sa résidence principale ?
+Application Web d'Analyse des Risques Climatiques et Données INSEE (équipe 212)
+Création d'une plateforme mesurant la disponibilité à base de micro pc
+Des leviers d'actions pour optimiser les consommations énergétiques
+Les actualités Actuariat
+/ Voir les actualités
+Conférences AXA et Generali à l’ESILV : échanges sur l’audit et la tarification en assurance
+Date : 31 Jan 2025
+Les étudiants de la majeure Actuariat de l’ESILV ont participé à deux conférences organisées en collaboration avec AXA et Generali.
+Ces rencontres ont permis d’explorer des thématiques clés du secteur de l’assurance......
+
+Ines, promo 2023, prix Covea et Caisse des Dépots au Concours International des Mémoires de l’Économie et de la Finance 2024
+Date : 21 Jun 2024
+Ines Bouchouchi, diplômée de l'ESILV et de l'ISUP en 2023, a remporté le prix Covéa et le prix Caisse des Dépôts 2024 lors de la 35ème édition du Concours International des Mémoires de l'Économie et de la Finance.
+Depuis......
+
+Assurances : 3 projets du cycle ingénieur pour répondre aux besoins spécifiques du secteur
+Date : 03 Jul 2023
+Dans le cadre des Projets d’Innovation Industrielle d’année 5 (PI²5) du cycle ingénieur ESILV, 2022-2023, trois projets distincts ont été réalisés par des équipes d'étudiants apportant des solutions concrètes......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

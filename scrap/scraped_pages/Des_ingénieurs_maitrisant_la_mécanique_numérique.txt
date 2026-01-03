@@ -1,0 +1,110 @@
+Des ingénieurs maitrisant la mécanique numérique
+Majeure modélisation et mécanique numérique en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master
+La majeure Modélisation et mécanique numérique forme des ingénieurs aptes à concevoir, développer et dimensionner de nouveaux produits et systèmes complexes, en particulier dans l’aéronautique et l’automobile.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISA) .
+Candidature
+Simulation numérique, aéronautique, automobile, spatial
+Ingénieur généraliste ESILV
+La majeure de formation est fondée sur la modélisation et la simulation numérique permettant la compréhension de la chaîne complète pour la conception numérique : interaction avec l’environnement, modélisation et outils numériques, optimisation dynamique, approches multi-physiques et multi-échelles.
+Des laboratoires de haute technologie
+Logiciels de simulation numérique : 3Dexperience, CATIA, Abaqus, EnSight, Suite logicielle ANSYS, HyperWorks, Suite logicielle ALTAIR, plateforme Salomé…
+Des outils d’analyse et de production pour l’énergie, les matériaux, la dynamique des fluides, les composites, la production et l’usinage. Une chaire d’enseignement avec ALTAIR sur la simulation numérique des systèmes.
+Enseignements
+Modélisation et simulation numérique des structures
+Matériaux composites et endommagement
+Modélisation des systèmes complexes et multidisciplinaires
+Mécanique des fluides et turbulence
+Aéroélasticité numérique
+Dynamique des véhicules et systèmes de transmission
+Conception assistée par ordinateur
+Analyse numérique et simulation
+Avionique et commande des systèmes
+Conception et architecture des véhicules autonomes
+Compétences
+Modéliser et simuler les comportements de structures, de fluides et leurs interactions
+Modéliser et optimiser des systèmes multi-physiques
+Étudier et concevoir des produits et des systèmes complexes
+Maîtriser la simulation scientifique et les logiciels industriels
+Métiers
+Ingénieur conception, Ingénieur d’affaires, Ingénieur mesure / test et contrôle, Ingénieur bureau d’études, Chef de projet procédés de fabrication, Ingénieur aéronautique, Ingénieur calcul scientifique, Ingénieur modélisation, Ingénieur en mécanique des fluides
+#AÉRONAUTIQUE
+#AUTOMOBILE
+#MATHÉMATIQUES
+#SIMULATION
+#BUREAUDÉTUDES
+#MODÉLISATION
+Aperçu du programme
+Majeure Modélisation et mécanique numérique
+MODELING AND SIMULATION
+Modeling and simulation of manufacturing processes
+Structural optimization
+Structural dynamics
+Numerical computation for fluid mechanics
+INTELLIGENCE ARTIFICIELLE
+Artificial Intelligence in Industry
+Automatic and control
+MECHANICAL ENGINEERING
+Probabilistic fracture mechanics and reliability
+Flight mechanics
+ADVANCED MECHANICAL ENGINEERING
+Advanced Strengh of Materials
+Fracture mechanics
+ADVANCED MODELING AND SIMULATION
+Aeroelasticity
+Multiscale modeling and simulation
+ADVANCED SYSTEM ENGINEERING
+Flight mechanics and avionics
+Sustainable Automotive Engineering
+Internet of Things
+DIGITAL ENGINEERING
+Composite materials
+Digital twins
+Industrial Design
+Exemples de projets Modélisation et mécanique numérique
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+Étude de la tenue en fatigue oligo-cycliques des Al aéronautiques
+#PI²4 - Transport par canalisation du CO2
+#PI²5 - Transformation d'images numériques par apprentissage non supervisé
+#PI²4 - Détection de mines enterrées
+#PI²4 - Neutralisation de mines et munitions
+#PI²5  Neon - fusée étudiante
+#PI²5 Conception d’un système de freinage pour une roue sphérique
+#pi²5 UCAN informations interceptées à l'aide de ce protocole via la prise OBD d'une voiture
+#PI²4 Optimisation de la direction du prototype d’efficience Nova de Vinci Eco Drive
+#PI²4 Redesign de la soufflerie dynamique EOLIA sous la supervision de LeoFly
+#PI²4  Projet Dirigeable fonctionnel porté par LeoFly
+#PI²4  Voiture électrique autonome
+Les actualités Mécanique à l'ESILV
+/ Voir les actualités
+Programme REXUS : LéoFly et le projet STAR-D pré-sélectionnés par l’ESA
+Date : 24 Nov 2025
+LéoFly, l’association aéronautique et spatiale du Pôle Léonard de Vinci, porte un projet scientifique pré-sélectionné pour le programme REXUS coordonné par l’Agence spatiale européenne. STAR-D étudie la phagocytose......
+
+Altair & ESILV : renouvellement de la chaire “Simulation, IA et Calcul Haute Performance”
+Date : 29 Oct 2025
+Renouvellement du partenariat entre l’ESILV et Altair autour de la chaire “Convergence de simulation, d'intelligence artificielle et de calculs haute Performance”
+Pascal Pinot, directeur de l’ESILV, et Alexandre......
+
+DefInSpace Hackathon : des étudiants de l’ESILV en demi-finale
+Date : 27 Oct 2025
+Des étudiants de l'ESILV, membres de l’association Proteus Group DeVinci, ont été sélectionnés en demi-finale du hackathon DefInSpace 2025, organisé par le Commandement de l’Espace. Leur projet sera présenté lors......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

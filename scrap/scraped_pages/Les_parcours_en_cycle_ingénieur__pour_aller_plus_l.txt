@@ -1,0 +1,26 @@
+Les parcours en cycle ingénieur, pour aller plus loin et s’ouvrir à des carrières et des métiers transversaux
+En 4ème et 5ème années, en fin de cycle ingénieur, chaque élève peut choisir en plus de sa majeure, un parcours ouvrant sur des carrières et des métiers transversaux. l’approche “learning by doing” stimule l’apprentissage par l’action et l’expérience. Il s’agit d’un cursus équilibré entre les cours de la majeure
+(trois jours par semaine), les cours et projets du parcours (deux jours) et l’esprit start-up via le “test & learn”.
+Parcours Convergence HPC-IA
+Ce parcours a pour objectif de former à la maitrise des outils de simulations d’intelligence artificielle et de HPC (High-performance computing) , qui permet de réduire dramatiquement le cycle de conception de produits en réalisation plus de calculs dans un temps plus court grâce à l’automatisation et la réduction des modèles. Un parcours vers les horizons […]
+
+Parcours Quantique
+L’objectif de ce parcours quantique est de former des ingénieurs capables de comprendre et de maîtriser les défis spécifiques liés à l’informatique quantique. Un parcours vers les horizons de l’informatique quantique L’objectif de ce parcours est de former des ingénieurs capables de comprendre et de maîtriser les défis spécifiques liés à l’informatique quantique. En acquérant […]
+
+Parcours UX Design
+Ce parcours, en partenariat avec l’IIM, place le design au cœur des nouvelles technologies pour concevoir des objets connectés, des services ou des applications centrés sur l’expérience utilisateur et l’adéquation aux nouveaux usages des consommateurs. Concevoir des interfaces et expériences Ce parcours vise à mieux prendre en compte l’utilisateur final dans la conception de produits […]
+
+Parcours ingénieurs d’affaires
+Ce parcours en commun avec l’EMLV a pour ambition d’apporter des compétences commerciales et managériales aux élèves de 5ème année. Maitriser les processus et cycles de vente Chaque élève est formé à la stratégie de développement commercial, à la négociation, à la gestion de grands comptes. Ces futurs “Business developer” mettent en œuvre leur apprentissage […]
+
+Parcours Recherche
+Développer l’esprit de recherche auprès de nos élèves et les confronter à des défis scientifiques. Vers des carrières académiques ou R&D Le parcours Recherche prépare les étudiants à la recherche académique et au doctorat autant qu’à des carrières dans les départements Recherche & Développement des grandes entreprises et dans les startups de pointe. Durant sa […]
+
+Parcours Start-Up
+Parce qu’on ne naît pas entrepreneur, les étudiants qui ont envie d’entreprendre sont accompagnés tout au long de la création de leur projet et entrent progressivement dans une démarche d’entrepreneuriat. Accompagner les créateurs d’entreprise Ce parcours, commun aux étudiants de l’ESILV et de l’EMLV, s’adresse aux étudiants de 5ème année qui portent déjà un projet, […]
+
+Parcours GenAI
+Ce parcours, conçu avec le soutien d’entreprises, offre une vision complète de l’intelligence artificielle générative Comprendre et maîtriser l’intelligence artificielle générative Les étudiants acquièrent une compréhension approfondie des modèles de langage, de la génération d’images, de sons et de données synthétiques. La formation couvre les aspects techniques — architectures de réseaux neuronaux, optimisation, déploiement sur […]
+
+Parcours Souveraineté numérique et Défense
+Ce parcours forme les étudiants aux enjeux stratégiques du numérique et de la défense, en mettant l’accent sur la résilience, le droit et le renseignement Allier technologie et stratégie pour la défense numérique Les élèves acquièrent une expertise sur la protection des infrastructures critiques, la cybersécurité, le droit et les régulations numériques, ainsi que sur […]

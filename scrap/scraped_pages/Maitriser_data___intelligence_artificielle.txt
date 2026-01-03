@@ -1,0 +1,106 @@
+Maitriser data & intelligence artificielle
+Majeure IA en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master
+Les ingénieurs formés au sein de cette majeure sont des spécialistes de la donnée, massive ou non, depuis sa collecte, sa modélisation et son stockage jusqu’à son analyse et son interprétation.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISA) .
+Candidature
+Majeure data & IA
+Ingénieur généraliste ESILV
+Les ingénieurs ESILV formés au sein de cette majeure en école d’ingénieur sont les acteurs de projets d’intelligence artificielle ainsi que des projets de valorisation de la donnée qui seront centraux pour tous les secteurs économiques et industriels dans les années à venir.
+Une recherche industrielle à la pointe
+La majeure est portée par des enseignants-chercheurs reconnus aussi bien dans le domaine du Big Data, de l’IA que de l’analyse de données. Ils sont impliqués dans des chaires de recherche et projets partenariaux d’innovation avec des grandes entreprises du secteur. Les élèves bénéficient ainsi d’enseignements d’excellence en phase avec le marché actuel du travail et avec ses évolutions futures.
+Enseignements
+Machine Learning et mathématiques pour la data science
+Deep Learning
+Visualisation de données
+Fouille de données textes et analyse de sentiments
+Modèles prédictifs
+Bases de données relationnelles et NoSQL
+Développement d’applications avancé
+Gestion de projets IT et agilité
+Cloud computing et datacenters
+Compétences
+Conduire, développer et manager un projet informatique
+Concevoir et déployer des solutions Big Data
+Maîtriser les technologies de développement et des frameworks Big Data
+Maîtriser les algorithmes et outils de data science et de visualisation de données
+Concevoir et mettre en œuvre des solutions d’Intelligence Artificielle
+Métiers
+Data Scientist, Data Engineers, Data Officer, Chef de projet Big Data, Développeur Big Data, Consultant Analytics et Visualisation, Ingénieur IA
+#IA #BIGDATA
+#MACHINELEARNING
+#DATASCIENCE
+#CLOUD
+#INFORMATIQUE
+Aperçu du programme
+Majeure Data & intelligence Artificielle
+EXTENDED WEB APPLICATIONS
+Web Application Architectures
+Business Intelligence
+ADVANCED AI
+Neural Networks and Deep Learning
+DATA ON THE WEB
+Web datamining & semantics
+Advanced topics in NoSql databases
+ADVANCED AI
+Machine Learning for NLP
+Machine Learning Use-cases
+Graph and mining
+Data & Distributed Network
+DATA PROCESSING
+Big Data Ecosystem
+Dataviz
+Big data processing in Spark
+Webscapping & Data Processing
+IT AND DATA
+Veille et enjeux technologiques
+IT management & ITIL
+Structures de données pour le cloud
+Exemples de projets data & Intelligence Artificielle
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+Construire un chatbot de type ChatGPT pour des données d'entreprise
+KCS02 : Booking automatique de trade via NLP
+Analyse d'articles de cybersécurité avec NLP et ML
+#PI²5 - City Data : Plateforme de visualisation de données urbaines
+#PI²5 - Transformation d'images numériques par apprentissage non supervisé
+#PI²5  - "Magic Mirror" pour malades d'Alzheimer
+#PI²5 - Concours RobAFIS 2024-2025
+Application Web d'Analyse des Risques Climatiques et Données INSEE (équipe 212)
+#PI²4 - Construire un outil comparateur de salaires avec Portalia
+Création d'une plateforme mesurant la disponibilité à base de micro pc
+#PI²4 - Lutter contre le bruit en ville : diagnostic des sources et solutions
+DIVA - GRC
+Les actualités Data & IA
+/ Voir les actualités
+Agentic AI Hackathon Google Cloud : l’équipe ESILV finaliste avec le projet Pixia
+Date : 10 Dec 2025
+Des étudiants issus de 20 établissements français ont participé au GCPU Agentic AI Hackathon, une initiative dédiée aux usages concrets des agents autonomes. L’équipe ESILV, avec son projet Pixia, fait partie des 11 finalistes......
+
+IBM et l’ESILV organisent un hackathon autour de l’intelligence artificielle appliquée à l’industrie
+Date : 22 Sep 2025
+Début septembre, plus de 1 000 étudiants de 4e année, toutes majeures confondues, du cycle ingénieur de l’ESILV ont participé pour la première fois à un dispositif académique conçu avec IBM.
+Entre formation certifiante......
+
+Onepoint et ESILV : une thèse CIFRE sur l’IA générative et les graphes de connaissances appliqués aux tests logiciels
+Date : 29 Aug 2025
+L’ESILV et Onepoint ont signé une convention CIFRE pour accompagner la recherche de Marius Ortega, promo 2024 et PhD Student Onepoint & DVRC.
+Encadre par Nicolas Travers, Directeur adjoint de la recherche, Nédra......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

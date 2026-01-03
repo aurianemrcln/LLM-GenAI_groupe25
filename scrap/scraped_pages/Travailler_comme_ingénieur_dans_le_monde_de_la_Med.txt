@@ -1,0 +1,125 @@
+Travailler comme ingénieur dans le monde de la MedTech & Santé
+Majeure MedTech & Santé en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master.
+La majeure MedTech & Santé forme des ingénieurs à même d’évoluer dans l’écosystème pluridisciplinaire de la technologie pour la santé.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISA) .
+La majeure MedTech & Santé est labellisée Medicen , un label délivré par la
+Commission Compétences du pôle de compétitivité santé Medicen Paris Region . Ce label distingue les formations répondant aux besoins en compétences de l’écosystème healthtech (start-up, industrie, recherche, etc.).
+Candidature
+Majeure MedTech & Santé
+Ingénieur généraliste ESILV
+La majeure repose sur des enseignements mixant sciences du vivant et de l’humain, technologies et intelligence artificielle, réglementation en santé et biotechnologies Les ingénieurs de cette Majeure se positionnent ainsi dans l’interconnexion entre l’humain, la technologie et les professionnels de santé et se retrouvent au coeur de la transformation numérique de la santé et des biotechnologies.
+#TECHFORHUMANS, les projets au service de l’humain
+Les étudiants s’illustrent dans la réalisation de projets innovants au service de l’humain. La formation scientifique pluridisciplinaire ainsi que les moyens à dispositions (FabLab, laboratoire IoT, serveur de calculs deep learning…) permet de concevoir et développer des prototypes distingués dans les grands concours nationaux et menant à des créations de start-ups : orthèse sur mesures, peau connectée, main artificielle, IA et handicap, aide à la rééducation, interface cerveau-machine…
+Enseignements
+Machine learning, intelligence artificielle et big data
+Bio-informatique et neuro-ingénierie
+Système d’informations et réseaux de santé
+Normes et réglementations en santé
+Traitement du signal et d’images
+Optoélectronique et mécatronique
+IoT et santé connectée
+Économie de la santé
+Sciences du vivant
+Compétences
+Concevoir, développer et évaluer des solutions biomédicales complexes
+Maîtriser la modélisation et les méthodes numériques en biologie et santé
+Gérer des projets technologiques dans le domaine de la santé
+Connaître les normes et réglementations en santé
+La majeure
+MedTech & Santé est labellisée Medicen Paris Region . Le label
+Medicen , délivré par la Commission Compétences du pôle de compétitivité santé
+Medicen Paris Region , a pour objectif d’identifier les formations répondant aux besoins en compétences de l’écosystème healthtech (start-ups, industrie, recherche, etc.). Ce label offre aux formations labellisées une visibilité accrue auprès des recruteurs healthtech au travers de l’accès au réseau du pôle Medicen, regroupant plus de 500 acteurs privés et publics de l’innovation en santé. Il permet de rapprocher les formations de l’écosystème, de faciliter le recrutement des étudiants (stages, alternance, premier emploi), d’adapter l’offre pédagogique aux besoins en compétences et de favoriser l’émergence de synergies et de partenariats entre les acteurs du secteur.
+Métiers
+Ingénieur télémédecine et IoT, Chef de projet système d’information santé, Ingénieur biostatisticien, Chef de projet data santé, Ingénieur R&D, chef de produit DM, Ingénieur qualité et réglementations, Ingénieur développement produits et procédés, Ingénieur conception de dispositifs médicaux, Data scientist life science, ingénieur d’application, Chef de projet R&D, Responsable de la veille scientifique et technique, Responsable des études cliniques, Responsable R&D.
+#Data
+#SantéConnectée
+#Mécatronique
+#IA
+#Humain
+#DispositifsMédicaux
+Aperçu du programme
+Majeure MedTech & Santé
+BIOLOGY, HEALTH : SYSTEMS AND MODELLING
+Biology fundamentals
+Modeling biological systems
+Computational modeling
+Medical digital workflows
+Finite elements Methods
+Neuroengineering
+Materials and implants
+NORMS & MANAGEMENT SYSTEMS IN HUMAN BODY
+Health, autonomy and biotechnology : economy and organisation
+Ethics, regulation, Health data
+Telehealth& health information systems
+Data protection management
+Product Life cycle Management (PLM)
+DATA
+Machine Learning
+Advanced probability
+Data Analytics
+Extreme value theory for risk statistics & game theory
+Experimental methodology and biostatistics
+Applied data analysis
+Embedded AI
+TECHNOLOGY FOR HUMAN BODY
+Sensors and optoelectronics
+IoT
+Augmented and Virtual Reality
+Robotics
+Control theory
+Computer vision
+HMI and sensory engineering
+Medical computer vision and image processing
+Connected objects and IoT for human health
+Additive Manufacturing
+Digital Twins
+Digital Simulation of Ergonomics
+Exemples de projets MedTech & Santé
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+#PI²5  - "Magic Mirror" pour malades d'Alzheimer
+Capt'leurs douleurs
+#PI²4 - Rédaction automatisée du rapport d'autopsie
+Projet ALIS : Communication pour des personnes LockedIn
+(H)ear-me
+#PI²5  Permettre aux personnes malvoyantes ou aveugles de naviguer sur un voilier
+#PI²5  Modèle de segmentation d’image volumétrique pour l'Institut Pasteur
+#PI²5  Étude biomécanique de la rigidité de fixation d’un tibia fracturé
+#PI²4 Application mobile pour les personnes en situation de handicap
+#PI²4 Tour de cou connecté
+#PI²4 Création d'une base de données dans la santé
+#PI²4 PICTOFALC : Facile à Lire et à Comprendre
+Actualités MedTech & Santé
+/ Voir les actualités
+Air France Industries : l’ESILV aux InnoDays 2025
+Date : 15 Sep 2025
+L’ESILV a participé aux InnoDays 2025 organisés par Air France Industries au MRO Lab de Roissy CDG.
+L’événement a rassemblé 20 exposants et a mis en avant des solutions innovantes en robotique, data, traçabilité......
+
+SantExpo 2025 : les étudiants de l’ESILV au cœur des enjeux de la santé de demain
+Date : 06 Jun 2025
+Dans le cadre du salon SantExpo 2025, les étudiants de la majeure MedTech & Santé de l’ESILV ont pris part à une rencontre organisée en partenariat avec Bpifrance et la French Care.
+À cette occasion, ils ont pu dialoguer......
+
+2de Journée de la recherche en odontologie : les travaux des élèves ingénieures présentés
+Date : 23 Aug 2024
+Lors de la 2ᵈᵉ Journée de la recherche en odontologie, Iris et Rebecca, de la promo 2025 en majeure Santé Biotech à l'ESILV, ont présenté leurs affiches mettant en avant leurs travaux de recherche réalisés pendant......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

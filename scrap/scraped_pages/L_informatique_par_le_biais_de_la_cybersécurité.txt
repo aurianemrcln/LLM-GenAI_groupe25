@@ -1,0 +1,95 @@
+L’informatique par le biais de la cybersécurité
+Majeure sécurité informatique en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master
+La majeure forme des ingénieurs maîtrisant l’informatique et le cycle complet de développement DEVSECOPS logiciel ainsi que l’environnement d’exécution. Elle prépare aux enjeux majeurs que sont la cybersécurité et le cloud computing auxquels sont confrontées toutes les entreprises.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISA) .
+Candidature
+Informatique & cybersécurité
+Ingénieur généraliste ESILV
+Enseignements
+Machine Learning & data science
+Cloud Computing & datacenters
+Secure System Design
+Secure Software Design
+Advanced software development
+Operating systems management
+Platform as a service
+Infrastructure as code
+Compétences
+Conduire, développer et manager un projet informatique
+Maîtriser la conception de l’intégration de solutions de cybersécurité
+Contrôler les environnements d’exécution de solutions logicielles
+Penser la sécurité par défaut dans toute démarche d’innovation
+Métiers en informatique & sécurité
+Ingénieur cybersécurité, Développeur Full Stack, Ingénieur DevSecOps, Ingénieur Cloud, Intégrateur de solutions de sécurité
+#CLOUD
+#IA
+#CYBERSÉCURITÉ
+#DEVSECOPS
+Aperçu du programme
+Majeure Cloud computing & cybersécurité
+MODERN DEVELOPMENT
+Neural Networks and Deep Learning
+Web Applications
+Cloud Computing
+WEB FRAMEWORKS
+Mobile Devices
+Code Deployment
+CYBER RISK MANAGEMENT
+Gouvernance des données et vie privée
+Systèmes de management de la sécurité
+Cyber résilience et gestion des cyber-risques
+DATA MANAGEMENT
+Cloud Data Structures
+Cloud Management
+SECURITY ANALYSIS
+Pentesting & usecases
+Forensic
+Télécharger le syllabus du programme
+Exemples de projets Informatique
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+Application Mobile de RTA (Responsible Tourism Advisor)
+KCS02 : Booking automatique de trade via NLP
+Blockchain Sécurité / DevOps
+#PI²5 - IA Générative, quels enjeux pour les DSI des entreprises ?
+#PI²4 - Concours- Les Olympiades Fanuc
+#PI²4 - Construction de surfaces de volatilités de caplets
+Création d'une plateforme mesurant la disponibilité à base de micro pc
+Rédaction automatisé du rapport d'autopsie
+Station Blanche Embarquée
+Développer un modèle de calcul de valeur résiduelle de matériels BTP
+Distribution par noyau, couverture d’option et stratégie systématique
+#pi²5 Clustering de données non labélisées
+Les actualités cybersécurité à l'ESILV
+/ Voir les actualités
+Spatial, cybersécurité, mobilité, durabilité, IA : les équipes ESILV distinguées au Hackathon Hussar Academy 2025
+Date : 19 Nov 2025
+Plusieurs équipes du cycle ingénieur ESILV ont été récompensées lors du Hackathon Hussar Academy 2025, un événement dédié aux enjeux du spatial, de la cybersécurité, de la mobilité et de l’IA.
+L’édition......
+
+European Defense Tech Hackathon Paris : DaVinciHive de l’ESILV remporte la première place
+Date : 14 Nov 2025
+L'association étudiante des drones de l'ESILV, DaVinciHive a obtenu la première place lors de l’European Defense Tech Hackathon, organisé à Paris en novembre 2025. Cette participation a permis d’explorer des problématiques......
+
+DefHack 2025 : immersion des étudiants de l’ESILV au cœur d’une cyberattaque simulée
+Date : 05 Nov 2025
+Pour la première fois, l’ESILV a accueilli dans les salles du Campus Cyber l’exercice de cyberdéfense DefHack, organisé par le Commandement de la cyberdéfense (COMCYBER). Une vingtaine d’étudiants en cybersécurité......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité

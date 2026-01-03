@@ -1,0 +1,112 @@
+Le monde de la finance requiert des compétences d’ingénieur
+Majeure Ingénierie financière en école d’ingénieurs habilitée CTI, diplôme d’ingénieur conférant le grade de master.
+La majeure Ingénierie financière développe l’ensemble des compétences nécessaires pour comprendre et maîtriser la complexité des marchés financiers.
+Formation proposée sur le campus de
+Paris.
+Alternance possible
+(FISEA) .
+Candidature
+Majeure Ingénierie financière
+Ingénieur généraliste ESILV
+La formation en ingénierie financière à l’ESILV prend en compte les grandes tendances observées dans les banques, en gestion d’actifs ou encore dans les hedge funds, telles que le trading à haute fréquence, l’utilisation conjointe du machine learning et des mathématiques de l’aléatoire ainsi que la nouvelle gestion des risques rendue de plus en plus complexe par les nouvelles directives financières. Majeure dispensée à 100% en anglais.
+Une salle de marchés à disposition
+Les étudiants bénéficient d’une véritable salle de marchés équipée de quinze terminaux Bloomberg , principal outil financier équipant les salles de marchés, les sociétés de gestion, mais aussi de grandes entreprises. Les étudiants ont également la possibilité de passer la certification Bloomberg ainsi que le Bloomberg Aptitude Test, qui sont autant de lignes à ajouter à leurs CV.
+Enseignements
+Mathématiques de l’aléatoire
+Modélisation mathématique pour la finance
+Théorie des options
+Gestion de portefeuilles
+Risque de marché
+Risque de crédit
+Marchés actions, de taux, de change, de matières premières
+Trading algorithmique
+Risque de modèle
+Méthodes de simulations
+Machine learning et data science
+Deep pricing
+Règlementations et régulations (Bâle 3)
+Compétences
+Maîtriser et gérer les risques liés aux activités financières
+Maîtriser les logiciels et langages de programmation communément utilisés dans l’industrie bancaire (Bloomberg, Matlab, R, C++, C#, VBA, Python)
+Maîtriser le nouvel environnement financier d’après la crise
+Maîtriser les nouvelles réglementations bancaires
+Maîtriser les mathématiques pour la finance
+Métiers
+Risk manager, Trader, Analyste quantitatif, Structureur, Financial market data scientist, Analyste hedge-fund, Stratégiste, Gérant de portefeuille quantitatif, Ingénieur financier, Commando IT, IT quant
+#FinanceQuantitative
+#Mathématiques
+#Informatique #IA
+#GestionDesRisques
+#FinanceDeMarché
+Aperçu du programme
+Ingénierie financière
+QUANTITATIVE FINANCE
+Pricing and hedging of derivatives
+Investment techniques
+Equity Derivatives
+STOCHASTIC CALCULUS
+Stochastic Calculus
+IT AND DATA FOR FINANCE
+Simulation methods
+Machine Learning and Asset Management
+Financial engineering with Python, Git, Linux
+MARKET ANALYTICS
+FX markets and models
+Algorithmic trading
+Commodities markets and models
+RISK AND MATHEMATICS
+Model risk
+Diffusion models
+Basel 3, credit risk, and machine learning
+Data-related innovation in finance: NLP& deep pricing
+Financial modeling with jump processes
+OPTIONS AND FINANCIAL
+MARKETS
+Advanced fixed income with Bloomberg & Derivatives trading
+Calibration de modèles
+Exemples de projets Finance
+Réalisés par les élèves-ingénieurs de 4e et 5e année
+#PI²5 - Machine Learning for Rating and Default Prediction
+#PI²4 - Trading Regime Models
+#PI²4 - Conception et développement d'un App Store sécurisé Windows/Mac
+ESG & Corporate Quality
+Distribution par noyau, couverture d’option et stratégie systématique
+Tendances des réseaux sociaux pour la prédiction du cours d'une actif
+Algorithmes IA pour la détection de données aberrantes
+Création d'un outil afin de dresser un bilan patrimonial
+#PI²5 - Machine Learning for Rating and Default Prediction
+#PI²5 - Analyse des Dynamiques de l'Emploi dans la Finance à Hong Kong
+#PI²5 interface de détection des fraudes bancaire.
+#PI²5 Valorisation de produits structurés en temps réel
+Les actualités Finance
+/ Voir les actualités
+OAK Invest, fondé par Grégoire, promo 2021, et Deloitte explorent l’avenir des cryptos en 2025
+Date : 24 Feb 2025
+Grégoire Somlai-Jung, diplômé de la promotion 2021 de l’ESILV et spécialiste en ingénierie financière, propose une analyse approfondie du secteur des cryptomonnaies avec son ouvrage « Les Cryptos en 2025 : Le futur......
+
+Next Challenge Vidéo & Pitch Battle : podium pour les étudiants de l’ESILV
+Date : 12 Dec 2024
+L'équipe Pleasant Park Investment de l'ESILV a décroché la 3ᵉ place lors de la 4ᵉ édition du Next Challenge Vidéo & Pitch Battle, remportant une allocation virtuelle de 10 000 € pour leur portefeuille d’investissement.
+Retour......
+
+Pierre, promo 2026 : du programme Restart à la majeure ingénierie financière à l’ESILV
+Date : 09 Dec 2024
+Après une première orientation en médecine, Pierre a choisi de rejoindre l'ESILV via le programme Restart. Aujourd'hui étudiant en ingénierie financière, il revient sur son parcours atypique et les étapes clés de son intégration.
+Changer......
+
+Majeures
+Éco-innovation
+Ingénierie logicielle & IA
+Conception mécanique et Industrie durable
+Cloud computing & cybersécurité
+Creative Technology
+MedTech & Santé
+Industrie et robotique
+Data et intelligence artificielle
+Fintech
+Actuariat
+Énergie et villes durables
+Aérospatial et Défense
+Modélisation et mécanique numérique
+Ingénierie financière
+Objets connectés & cybersécurité
