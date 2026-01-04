@@ -169,4 +169,13 @@ Merci de contacter la scolarité à scolarité@esilv.fr
 
 ---
 
-💡 **Une fois l’ingestion faite, ne relancez que `chainlit run main.py`.**
+⚠️ **Une fois l’ingestion faite, ne relancez que `chainlit run main.py`.**
+
+---
+
+# 👥 Crédits
+
+Projet réalisé dans le cadre du cours *LLM and GenAI* en cinquième année à l'ESILV de la majeur DIA, par :
+- CHARUEL Lisa
+- MARCELINO Auriane
+- MARTIN Aymeric
