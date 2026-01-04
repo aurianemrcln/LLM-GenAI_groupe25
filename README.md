@@ -110,8 +110,12 @@ COUNT APRÈS = X   (X > 0)
 ```bash
 chainlit run main.py
 ```
+or
+```bash
+py -m chainlit run main.py
+```
 
-Puis ouvrir le navigateur à l’adresse indiquée par Chainlit.
+Le navigateur avec le chatbot s'ouvrira automatiquement. Si non, ouvrir le navigateur à l’adresse indiquée par Chainlit.
 
 ---
 
