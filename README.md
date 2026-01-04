@@ -1,24 +1,31 @@
 # LLM-GenAI_groupe25
 
-# ESILV Smart Assistant
+# 🤖 Assistant RAG Chainlit + ChromaDB
 
 ESILV Smart Assistant est un chatbot intelligent pour l’école d’ingénieurs **ESILV**, capable de répondre aux questions sur les programmes, admissions et cours, collecter des informations de contact, et coordonner plusieurs agents spécialisés pour gérer des requêtes complexes.
 
----
+Cet assistant est un **chatbot RAG (Retrieval-Augmented Generation)** basé sur **Chainlit**, **ChromaDB** et les modèles **Mistral** via **LiteLLM**.
 
-## Fonctionnalités
-
-- Réponses aux questions sur ESILV (programmes, admissions, cours)
-- Collecte de contacts pour suivi ou inscription
-- Coordination multi-agents :
-  - Agent RAG pour réponses factuelles
-  - Agent Formulaire pour collecte d’informations
-  - Agent Admin pour suivi et analytics
-- Interface Chainlit : chat, upload de documents, visualisation admin
+Il permet de répondre aux questions des utilisateurs **uniquement à partir d’un corpus de documents texte (.txt)** ingérés dans une base vectorielle Chroma.
 
 ---
 
-## Technologies
+## 🧠 Fonctionnement général
+
+1. 🪝 Toutes les pages du site internet de l'ESILV sont scrapées et stockées en fichiers `.txt` dans un dossier (`./scrap`)
+2. 🔢 Chaque document est transformé en **embedding vectoriel** (Mistral Embed)
+3. 💾 Les documents + embeddings sont stockés dans **ChromaDB**
+4. ❓ Lors d’une question utilisateur :
+
+   * les documents les plus similaires sont recherchés
+   * un **prompt contrôlé** est construit
+   * le LLM répond **uniquement à partir du contexte fourni**
+
+Si aucune information pertinente n’est trouvée, l’assistant renvoie un message standard.
+
+---
+
+## 🧑‍💻 Technologies
 
 - **Frontend** : [Chainlit](https://chainlit.io/)  
 - **LLM** : Ollama (local) ou Google Vertex AI (cloud)  
@@ -28,31 +35,134 @@ ESILV Smart Assistant est un chatbot intelligent pour l’école d’ingénieurs
 
 ---
 
-## Installation (local)
+## 🗂️ Architecture du projet
+
+```
+LLM_GENAI/
+│
+├── chroma_client.py      # Initialisation unique de ChromaDB (client + collection)
+├── doc_manager.py        # Ingestion des fichiers texte (.txt)
+├── rag_engine.py         # Recherche sémantique (similarité cosine)
+├── main.py               # Application Chainlit (chat)
+├── scrap/                # Dossier contenant les fichiers .txt à ingérer
+├── chroma_txt_db/        # Base ChromaDB persistée (auto-générée)
+└── README.md
+```
+
+---
+
+## ⚙️ Prérequis
+
+* Python **3.10+**
+
+### 📦 Dépendances principales
 
 ```bash
-git clone https://github.com/votre-utilisateur/esilv-smart-assistant.git
-cd esilv-smart-assistant
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
+pip install chainlit chromadb litellm scikit-learn
+git clone https://github.com/aurianemrcln/LLM-GenAI_groupe25.git
+cd LLM-GenAI_groupe25
 pip install -r requirements.txt
-chainlit run chainlit_app/app.py
+chainlit run main.py
 ```
-## Structure du projet
 
-esilv-smart-assistant/
-├─ ingestion/       # Scraping et parsing de documents
-├─ embeddings/      # Génération d'embeddings
-├─ vectorstore/     # FAISS/Milvus/Chroma
-├─ agents/          # Orchestrateur et agents
-├─ chainlit_app/    # Frontend Chainlit
-├─ deployment/      # Docker / GCP
-└─ README.md
+---
 
-## Sécurité & confidentialité
+## 🔑 Configuration
 
-Les documents internes restent privés
+### Clé API Mistral
 
-Collecte de données conforme RGPD
+La clé API est définie via une variable d’environnement :
 
-Ollama local : sécuriser le serveur, ne pas exposer publiquement
+```python
+os.environ["MISTRAL_API_KEY"] = "VOTRE_CLE_API"
+```
+
+⚠️ En production, **ne jamais hardcoder la clé**.
+
+---
+
+## 📥 Étape 1 — Ingestion des documents
+
+1. Placer vos fichiers `.txt` dans le dossier :
+
+```
+./scrap
+```
+
+2. Lancer l’ingestion :
+
+```bash
+python doc_manager.py
+```
+
+3. Vérifier la sortie :
+
+```text
+COUNT APRÈS = X   (X > 0)
+```
+
+👉 Les documents sont automatiquement persistés dans `chroma_txt_db`.
+
+---
+
+## 💬 Étape 2 — Lancer l’assistant
+
+```bash
+chainlit run main.py
+```
+
+Puis ouvrir le navigateur à l’adresse indiquée par Chainlit.
+
+---
+
+## 🧪 Logique RAG
+
+* **Seuil de similarité** :
+
+```python
+SCORE_THRESHOLD = 0.65
+```
+
+* Si aucun document ne dépasse ce seuil, la réponse est :
+
+```
+Je n'ai pas d'informations à ce sujet.
+Merci de contacter la scolarité à scolarité@esilv.fr
+```
+
+---
+
+## 🔐 Contraintes de sécurité
+
+* Le LLM est **strictement contraint** à répondre à partir du contexte fourni
+* Aucune hallucination autorisée hors documents
+* Sources affichées après chaque réponse
+
+---
+
+## 🛠️ Dépannage courant
+
+### ❌ "Aucun document trouvé dans la collection"
+
+✔ Vérifier que :
+
+* `doc_manager.py` a bien été exécuté
+* le dossier `scrap` contient des `.txt`
+* le chemin Chroma est **absolu** et partagé par tous les fichiers
+
+### ❌ COUNT = 0 dans `main.py`
+
+➡️ Supprimer `chroma_txt_db`, relancer l’ingestion, puis relancer Chainlit.
+
+---
+
+## ✅ Résumé
+
+✔ Ingestion automatique de documents texte
+✔ Recherche sémantique fiable
+✔ Réponses contrôlées et sourcées
+✔ Architecture claire et modulaire
+
+---
+
+💡 **Une fois l’ingestion faite, ne relancez que `chainlit run main.py`.**

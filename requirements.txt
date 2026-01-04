@@ -1,0 +1,7 @@
+chainlit
+chromadb
+litellm
+requests
+beautifulsoup4
+pandas
+scikit-learn

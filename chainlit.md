@@ -8,7 +8,7 @@ Il permet de répondre aux questions des utilisateurs **uniquement à partir d�
 
 ## 🧠 Fonctionnement général
 
-1. 📂 Des fichiers `.txt` sont ingérés depuis un dossier (`./scrap`)
+1. 🪝 Toutes les pages du site internet de l'ESILV sont scrapées et stockées en fichiers `.txt` dans un dossier (`./scrap`)
 2. 🔢 Chaque document est transformé en **embedding vectoriel** (Mistral Embed)
 3. 💾 Les documents + embeddings sont stockés dans **ChromaDB**
 4. ❓ Lors d’une question utilisateur :
@@ -40,7 +40,6 @@ LLM_GENAI/
 ## ⚙️ Prérequis
 
 * Python **3.10+**
-* Un environnement virtuel recommandé
 
 ### 📦 Dépendances principales
 
