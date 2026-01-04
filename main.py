@@ -10,7 +10,7 @@ import asyncio
 # CONFIGURATION
 # =========================
 
-os.environ["MISTRAL_API_KEY"] = "4kkG27Ccz0aOzibls4GuGanWTp6FyoJE"
+os.environ["MISTRAL_API_KEY"] = "YOUR_API_KEY"
 
 # Paramètres RAG
 SCORE_THRESHOLD = 0.65
